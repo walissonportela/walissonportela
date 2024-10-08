@@ -23,3 +23,5 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
 </div> <br>
 
 ![Walisson Portela's GitHub stats](https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact)
