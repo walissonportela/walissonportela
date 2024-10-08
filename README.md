@@ -22,7 +22,7 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
   <img align="center" alt="Walisson-Laravel" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
 </div> <br>
 
-<div style="display: flex; justify-content: space-around; gap: 40px;">
+<div style="display: flex; justify-content: space-around; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent" alt="Walisson Portela's GitHub stats" height="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=dark" alt="Top Langs" height="310" />
 </div>
