@@ -38,4 +38,10 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
   </a>
 </div>
 
+##
+
+![Snake Animation](https://github.com/<walissonportela>/<walissonportela>/blob/output/github-contribution-grid-snake2.svg)
+
+##
+
 
