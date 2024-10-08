@@ -13,7 +13,12 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudantes de Engenharia da Computaç�
 
 Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência:
 
-<div style="display: inline_block"><br>
+<div style="display: flex; justify-content: space-around; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent" alt="Walisson Portela's GitHub stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=dark" alt="Top Langs" width="305" />
+</div>
+
+<div style="display: inline_block; gap: 10px;"><br>
   <img align="center" alt="Walisson-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Walisson-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Walisson-JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,8 +26,3 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
   <img align="center" alt="Walisson-PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Walisson-Laravel" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
 </div> <br>
-
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent" alt="Walisson Portela's GitHub stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=dark" alt="Top Langs" width="305" />
-</div>
