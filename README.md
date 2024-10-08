@@ -26,3 +26,16 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
   <img align="center" alt="Walisson-PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Walisson-Laravel" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
 </div> <br>
+
+##
+
+<div style="display: flex; gap: 15px;">
+  <a href="https://www.linkedin.com/in/walissonportela/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:walissonportela36@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+</div>
+
+
