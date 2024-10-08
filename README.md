@@ -20,8 +20,6 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
   <img align="center" alt="Walisson-Bootstrap" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Walisson-PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Walisson-Laravel" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
-</div>
+</div> <br>
 
-## Minhas Estátísticas 
-[![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=radical)](https://github.com/walissonportela)
-
+![Walisson Portela's GitHub stats](https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent)
