@@ -40,7 +40,7 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
 
 ##
 
-![Snake Animation](https://github.com/walissonportela/walissonportela/blob/output/github-contribution-grid-snake2.svg)
+![Snake Animation](https://github.com/walissonportela/walissonportela/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
