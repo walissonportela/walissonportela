@@ -18,7 +18,10 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" width="305" />
 </div>
 
-<div class="streak-container">
+<div style="border: 2px solid white; 
+    border-radius: 10px;
+    display: inline-block;
+    padding: 5px; 
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent&hide_border=true&width=1000" alt="GitHub Streak">
     </a>
