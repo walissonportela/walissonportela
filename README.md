@@ -13,7 +13,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudantes de Engenharia da Computaç�
 
 Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência:
 
-### Linguagens e Tecnologias
+###
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
   <img alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
@@ -24,18 +24,18 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
   <img alt="Laravel" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
 </div>
 
-### Estatísticas do GitHub
+### 
 
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent" alt="Walisson Portela's GitHub stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent" alt="Walisson Portela's GitHub stats" width="300" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" width="300" />
 </div>
 
-### GitHub Streak
+### 
 
 <div style="margin-top: 20px;">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent" alt="GitHub Streak" width="800" />
+    <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent" alt="GitHub Streak" width="600" />
   </a>
 </div>
 
