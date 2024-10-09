@@ -14,9 +14,9 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudantes de Engenharia da Computaç�
 Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência:
 
 <!-- Bloco com ícones das linguagens ao lado de Top Langs -->
-<div style="display: flex; justify-content: space-between; gap: 20px; align-items: flex-start;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
   <!-- Bloco de ícones das linguagens em grid (2 linhas de 3 colunas) -->
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; width: 180px;">
     <img align="center" alt="Walisson-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     <img align="center" alt="Walisson-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Walisson-JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,8 +26,9 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
   </div>
 
   <!-- Bloco Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" width="305" />
 </div>
+
 
 
 <!-- Bloco com GitHub Streak ao lado das GitHub Stats -->
