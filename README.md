@@ -38,7 +38,7 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
   <img src="https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent" alt="Walisson Portela's GitHub stats" width="400" height="200" />
   <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent" alt="GitHub Streak" width="400" height="200" />
+    <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent" alt="GitHub Streak" width="500" height="300" />
   </a>
 </div>
 
