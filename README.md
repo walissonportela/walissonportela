@@ -13,20 +13,25 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudantes de Engenharia da Computaç�
 
 Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência:
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent" alt="Walisson Portela's GitHub stats" style="width: 100%; max-width: 400px;" />
+<div style="display: flex; flex-direction: column; gap: 20px;">
+  <!-- Primeira linha com dois cards lado a lado -->
+  <div style="display: flex; justify-content: space-between; gap: 20px;">
+    <div style="flex: 1;">
+      <img src="https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent" alt="Walisson Portela's GitHub stats" style="width: 100%; max-width: 400px;" />
+    </div>
+    <div style="flex: 1;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" style="width: 100%; max-width: 305px;" />
+    </div>
   </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" style="width: 100%; max-width: 305px;" />
+
+  <!-- Segunda linha com o streak ocupando a largura total -->
+  <div style="border: 2px solid white; border-radius: 10px; display: inline-block; padding: 5px;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent&width=1000" alt="GitHub Streak" style="width: 100%; max-width: calc(705px + 20px);" />
+    </a>
   </div>
 </div>
 
-<div style="border: 2px solid white; border-radius: 10px; display: inline-block; padding: 5px; margin-top: 20px;">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent&width=1000" alt="GitHub Streak" style="width: 100%; max-width: 700px;" />
-  </a>
-</div>
 
 
 <div style="display: inline_block; gap: 10px;"><br>
