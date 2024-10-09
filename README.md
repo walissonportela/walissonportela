@@ -18,7 +18,7 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" width="305" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=walissonportela)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=walissonportela&theme=transparent&hide_border=true&width=500)](https://git.io/streak-stats)
 
 <div style="display: inline_block; gap: 10px;"><br>
   <img align="center" alt="Walisson-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
