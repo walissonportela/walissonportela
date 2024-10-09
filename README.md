@@ -16,7 +16,7 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
 <!-- Bloco com ícones das linguagens ao lado de Top Langs -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
   <!-- Bloco de ícones das linguagens em grid (2 linhas de 3 colunas) -->
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; width: 180px;">
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; width: 200px;">
     <img align="center" alt="Walisson-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     <img align="center" alt="Walisson-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Walisson-JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,18 +24,22 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
     <img align="center" alt="Walisson-PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
     <img align="center" alt="Walisson-Laravel" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
   </div>
+
+  <!-- Bloco Top Langs -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" width="305" />
 </div>
+
 
 
 
 <!-- Bloco com GitHub Streak ao lado das GitHub Stats -->
 <div style="display: flex; justify-content: space-between; gap: 20px; margin-top: 20px;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent" alt="Walisson Portela's GitHub stats" width="400" height="200" />
   <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent" alt="GitHub Streak" width="400" height="200" />
   </a>
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent" alt="Walisson Portela's GitHub stats" width="400" height="200" />
 </div>
 
 
