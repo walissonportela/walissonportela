@@ -11,30 +11,25 @@ Welcome to my GitHub profile! I am a Computer Engineering student with an emphas
 
 ## My Skills
 
-### Frontend Development
+#### FullStack Development
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
   <img alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Bootstrap" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-</div>
-
-### Backend Development
-
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
   <img alt="PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img alt="Laravel" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
 </div>
 
-### GitHub Stats
+#### GitHub Stats
 
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent" alt="Walisson Portela's GitHub stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" width="305" />
 </div>
 
-### GitHub Streak
+#### GitHub Streak
 
 <div style="margin-top: 20px;">
   <a href="https://git.io/streak-stats">
