@@ -1,37 +1,40 @@
-## Olá, eu sou Walisson Portela ✌️
+## Hello, I’m Walisson Portela ✌️
 
-Bem-vindo ao meu perfil no GitHub! Sou um estudantes de Engenharia da Computação com ênfase em desenvolvimento de software, com o objetivo de me tornar um Desenvolvedor Fullstack. Aqui você encontrará meus projetos e contribuições enquanto caminho para me tornar um profissional completo na área.
+Welcome to my GitHub profile! I am a Computer Engineering student with an emphasis on software development, aiming to become a Fullstack Developer. Here you will find my projects and contributions as I work towards becoming a well-rounded professional in the field.
 
-## Sobre mim
+## About Me
 
-- ⚙️ Estudante de Engenharia da Computação na Universidade Federal do Ceará - UFC
-- 💻 Estagiário de Desenvolvimento Fullstack na Prefeitura Municipal de Sobral
-- 🌱 Aprendendo novas soluções para desenvolvimento de software usando Laravel e Bootstrap
-- 🔭 Aprecio criar experiências visuais atraentes e funcionais em cada projeto
+- ⚙️ Computer Engineering student at the Federal University of Ceará - UFC
+- 💻 Fullstack Development Intern at the Municipal City Hall of Sobral
+- 🌱 Learning new software development solutions using Laravel and Bootstrap
+- 🔭 I enjoy creating visually appealing and functional experiences in every project
 
-## Minhas Skills
+## My Skills
 
-Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência:
-
-###
+### Frontend Development
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
   <img alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Bootstrap" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+</div>
+
+### Backend Development
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
   <img alt="PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img alt="Laravel" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
 </div>
 
-### 
+### GitHub Stats
 
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent" alt="Walisson Portela's GitHub stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" width="300" />
 </div>
 
-### 
+### GitHub Streak
 
 <div style="margin-top: 20px;">
   <a href="https://git.io/streak-stats">
@@ -39,7 +42,7 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
   </a>
 </div>
 
-##
+## Connect with Me
 
 <div style="display: flex; gap: 15px;">
   <a href="https://www.linkedin.com/in/walissonportela/" target="_blank">
@@ -49,5 +52,3 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </div>
-
-##
