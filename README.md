@@ -31,8 +31,6 @@ Welcome to my GitHub profile! I am a Computer Engineering student with an emphas
 
 #### Tools & Technologies
 
-### Tools & Technologies
-
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
@@ -53,7 +51,7 @@ Welcome to my GitHub profile! I am a Computer Engineering student with an emphas
 
 <div style="margin-top: 20px;">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent" alt="GitHub Streak" width="600" />
+    <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent" alt="GitHub Streak" width="400" />
   </a>
 </div>
 
