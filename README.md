@@ -23,7 +23,7 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
     display: inline-block;
     padding: 5px; 
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent&hide_border=true&width=1000" alt="GitHub Streak">
+        <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent&width=1000" alt="GitHub Streak">
     </a>
 </div>
 
