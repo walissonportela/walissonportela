@@ -13,19 +13,21 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudantes de Engenharia da Computaç�
 
 Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência:
 
-<div style="display: flex; justify-content: space-around; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent" alt="Walisson Portela's GitHub stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" width="305" />
+<div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent" alt="Walisson Portela's GitHub stats" style="width: 100%; max-width: 400px;" />
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" style="width: 100%; max-width: 305px;" />
+  </div>
 </div>
 
-<div style="border: 2px solid white; 
-    border-radius: 10px;
-    display: inline-block;
-    padding: 5px; 
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent&width=1000" alt="GitHub Streak">
-    </a>
+<div style="border: 2px solid white; border-radius: 10px; display: inline-block; padding: 5px; margin-top: 20px;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent&width=1000" alt="GitHub Streak" style="width: 100%; max-width: 700px;" />
+  </a>
 </div>
+
 
 <div style="display: inline_block; gap: 10px;"><br>
   <img align="center" alt="Walisson-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
