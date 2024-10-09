@@ -49,9 +49,13 @@ Welcome to my GitHub profile! I am a Computer Engineering student with an emphas
 
 #### GitHub Streak
 
-<div style="margin-top: 20px;">
+<div style="margin-top: 20px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent" alt="GitHub Streak" width="400" />
+  </a>
+  
+  <a href="https://github.com/walissonportela/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=walissonportela" alt="Walisson Portela's WakaTime stats" />
   </a>
 </div>
 
