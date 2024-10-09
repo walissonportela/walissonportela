@@ -24,9 +24,6 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
     <img align="center" alt="Walisson-PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
     <img align="center" alt="Walisson-Laravel" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
   </div>
-
-  <!-- Bloco Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" width="305" />
 </div>
 
 
@@ -35,10 +32,10 @@ Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência
 <div style="display: flex; justify-content: space-between; gap: 20px; margin-top: 20px;">
   <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent" alt="GitHub Streak" width="400" />
+    <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent" alt="GitHub Streak" width="400" height="200" />
   </a>
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent" alt="Walisson Portela's GitHub stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent" alt="Walisson Portela's GitHub stats" width="400" height="200" />
 </div>
 
 
