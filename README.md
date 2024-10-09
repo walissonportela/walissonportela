@@ -13,41 +13,30 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudantes de Engenharia da Computaç�
 
 Aqui estão algumas das linguagens e tecnologias com as quais tenho experiência:
 
-<!-- Bloco com ícones das linguagens ao lado de Top Langs -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px;">
+### Linguagens e Tecnologias
 
-  <!-- Bloco de ícones das linguagens em grid (2 linhas de 3 colunas) -->
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; width: 300px;">
-    <img align="center" alt="Walisson-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-    <img align="center" alt="Walisson-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Walisson-JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Walisson-Bootstrap" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Walisson-PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-    <img align="center" alt="Walisson-Laravel" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
-  </div>
-
-  <!-- Bloco Top Langs -->
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" width="100%" />
-  </div>
-
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
+  <img alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Bootstrap" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img alt="PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img alt="Laravel" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
 </div>
 
-<!-- Bloco com GitHub Streak ao lado das GitHub Stats -->
-<div style="display: flex; justify-content: space-between; gap: 40px; margin-top: 40px;">
+### Estatísticas do GitHub
 
-  <!-- GitHub Stats -->
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent" alt="Walisson Portela's GitHub stats" width="100%" height="200" />
-  </div>
+<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent" alt="Walisson Portela's GitHub stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" width="400" />
+</div>
 
-  <!-- GitHub Streak -->
-  <div style="flex: 1;">
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent" alt="GitHub Streak" width="100%" height="200" />
-    </a>
-  </div>
+### GitHub Streak
 
+<div style="margin-top: 20px;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent" alt="GitHub Streak" width="800" />
+  </a>
 </div>
 
 ##
