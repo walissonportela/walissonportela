@@ -22,6 +22,25 @@ Welcome to my GitHub profile! I am a Computer Engineering student with an emphas
   <img alt="Laravel" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
 </div>
 
+#### Databases
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
+  <img alt="PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+</div>
+
+#### Tools & Technologies
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
+  <img alt="VSCode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img alt="Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img alt="Trello" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
+  <img alt="Notion" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
+  <img alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img alt="GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img alt="GitFlow" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+</div>
+
 #### GitHub Stats
 
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
