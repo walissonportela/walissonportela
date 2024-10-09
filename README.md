@@ -14,12 +14,12 @@ Welcome to my GitHub profile! I am a Computer Engineering student with an emphas
 #### FullStack Development
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
-  <img alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Bootstrap" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img alt="PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img alt="Laravel" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
+  <img alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Bootstrap" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img alt="PHP" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img alt="Laravel" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
 </div>
 
 #### Databases
@@ -52,10 +52,6 @@ Welcome to my GitHub profile! I am a Computer Engineering student with an emphas
 <div style="margin-top: 20px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent" alt="GitHub Streak" width="400" />
-  </a>
-  
-  <a href="https://github.com/walissonportela/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=walissonportela" alt="Walisson Portela's WakaTime stats" />
   </a>
 </div>
 
