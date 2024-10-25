@@ -60,7 +60,4 @@ Welcome to my GitHub profile! I am a Computer Engineering student with an emphas
   <a href="https://github.com/walissonportela" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  <a href="https://dev.to/walissonportela" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to Badge" />
-  </a>
 </div>
