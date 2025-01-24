@@ -44,7 +44,6 @@ Welcome to my GitHub profile! I am a Computer Engineering student with an emphas
 #### GitHub Stats
 
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
-  <img src="https://streak-stats.demolab.com/?user=walissonportela&theme=transparent" alt="GitHub Streak" width="425" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" width="305" />
 </div>
 
