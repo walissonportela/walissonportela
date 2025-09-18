@@ -44,7 +44,11 @@ Welcome to my GitHub profile! I am a Computer Engineering student with an emphas
 #### GitHub Stats
 
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent" alt="Top Langs" width="305" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent&cache_seconds=3600"
+    alt="Top Langs"
+    width="305"
+  />
 </div>
 
 ## Connect with Me
