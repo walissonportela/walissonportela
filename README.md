@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I am a Computer Engineering student with an emphas
 
 #### GitHub Stats
 
-![walissonportela's Stats](https://github-readme-stats.vercel.app/api?username=walissonportela&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![walissonportela's Stats](https://github-readme-stats.vercel.app/api?username=walissonportela&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Connect with Me
 
