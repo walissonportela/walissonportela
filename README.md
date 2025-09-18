@@ -43,12 +43,26 @@ Welcome to my GitHub profile! I am a Computer Engineering student with an emphas
 
 #### GitHub Stats
 
-<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+<div align="center">
+
+  <!-- Estatísticas gerais -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent&cache_seconds=3600"
-    alt="Top Langs"
-    width="305"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=walissonportela&show_icons=true&theme=transparent"
+    height="180"
   />
+
+  <!-- Linguagens mais usadas -->
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=walissonportela&layout=compact&theme=transparent"
+    height="180"
+  />
+
+  <!-- Sequência de contribuições -->
+  <img 
+    src="https://streak-stats.demolab.com?user=walissonportela&theme=transparent"
+    height="180"
+  />
+
 </div>
 
 ## Connect with Me
